@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needlt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-12 20:17:44</sys_created_on>
+        <sys_id>81b111b9834b121020d896d6feaad3ad</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Needlt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_81b111b9834b121020d896d6feaad3ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-12 21:09:11</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 18pt;">SPECIAL DAY</span><span style="background-color: rgb(var(--sn-tinymce_content-background,var(--now-form-field--background-color,var(--now-color_background--primary,var(--now-color--neutral-0,255,255,255))))); color: rgb(var(--sn-tinymce_content-text,var(--now-form-field--color,var(--now-color_text--primary,var(--now-color--neutral-18,22,27,28))))); font-size: 18pt;">PROPERTIES</span></p>
+<p>These properties can be read and updated by users with Needlt&#39;s admins role.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=81b111b9834b121020d896d6feaad3ad"/>
+</record_update>
